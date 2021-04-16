@@ -1,8 +1,7 @@
-# cr4ck
 ````
 Author : Muhammad Rizky
 ````
-### PERINTAH
+## PERINTAH
 ````
 pkg update && pkg upgrade
 pkg install git 
