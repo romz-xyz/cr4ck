@@ -14,4 +14,7 @@ ls
 python2 cr4ck.py
 ````
 #
+#### note:
+Untuk login ke termux anda diwajibkan menggunakan akun tumbal atau akun baru. Saya tidak bertanggung jawab jika terjadi sesuatu pada akun Anda. Dan satu hal lagi, gunakan script ini sewajarnya!
+#
 Di Tulis Oleh Muhammad Rizky
